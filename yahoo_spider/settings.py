@@ -90,5 +90,5 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 RETRY_TIMES = 10
 LOG_LEVEL = 'ERROR'
-LOG_FORMAT = '%(levelname)s: %(message)s'
+#LOG_FORMAT = '%(levelname)s: %(message)s'
 LOG_FILE = 'log.txt'
